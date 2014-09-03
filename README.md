@@ -1,4 +1,4 @@
 generateElsaExam
 ================
 
-Python to generate PDF file which contains examination for Elsa.
+Script to generate PDF file which contains examinations for Elsa.
